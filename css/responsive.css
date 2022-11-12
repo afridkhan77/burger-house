@@ -1,0 +1,552 @@
+@media (min-width: 279px) and (max-width: 319px){
+/* css start */
+.header .logo{
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+.menu .top-menu p{
+  margin: 10px 0px 10px;
+  text-align: center;
+}
+.menu .top-menu p{
+	font-size: 11px;
+	margin: 10px 0px 10px;
+	text-align: center;
+}
+.menu .navbar-nav .nav-item .nav-link{
+  margin: 10px 0px 0px 0px;
+  font-size: 14px;
+}
+.banner{
+  padding: 30px 0px;
+}
+.banner .content{
+  padding: 25px 0px;
+}
+.banner .content .sub{
+  width: 100%;
+}
+.banner .content .sub h4{
+  font-size: 10px;
+  line-height: 20px;
+}
+.content h1{
+  font-size: 38px;
+  line-height: 48px;
+}
+.content h3{
+  font-size: 26px;
+  line-height: 36px;
+}
+.feature{
+	padding: 30px 0px;
+}
+.feature .card .card-body h5{
+  font-size: 14px;
+  line-height: 24px;
+}
+.feature .card .card-body h2{
+  font-size: 20px;
+  line-height: 18px;
+}
+.feature .card .card-body{
+  width: auto;
+  transform: translate(10px, -5px);
+}
+.services{
+	padding: 15px 0px 30px;
+}
+.services .title .sub-title{
+  width: 80%;
+}
+.services .title .sub-title h4{
+	font-size: 14px;
+    line-height: 24px;
+}
+.services .title h1{
+  font-size: 22px;
+  line-height: 32px;
+}
+.services .title p{
+  font-size: 10px;
+  line-height: 20px;
+}
+.services .title{
+  padding: 0px 0px 20px;
+}
+.services .card{
+  padding: 20px;
+}
+.services .card .card-img-top{
+	width: 100%;
+    height: auto;
+}
+.services .card .card-title{
+	font-size: 24px;
+    line-height: 34px;
+}
+.services .card .card-text{
+	font-size: 10px;
+    line-height: 20px;
+}
+.services .card .card-body .btn-primary{
+	padding: 10px 15px;
+    font-size: 12px;
+    line-height: 22px;
+    margin: 10px 0px 0px 0px;
+}
+.slider{
+	padding: 10px 0px 30px;
+} 
+.slider .owl-carousel .item h5{
+	font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 1px;
+}
+.slider .owl-carousel .item h2{
+	font-size: 16px;
+    line-height: 26px;
+    margin: 0px 0px 20px;
+}
+.slider .owl-carousel .item p{
+	font-size: 10px;
+    line-height: 20px;
+    letter-spacing: 1px;
+}
+.slider .owl-carousel .item .img-fluid {
+    height: auto;
+}
+.contact{
+	width: 100%;
+	padding: 15px 0px;
+}
+.contact .title{
+	padding: 0px 0px 10px;
+}
+.contact .title h1{
+  font-size: 20px;
+	line-height: 30px;
+  padding: 0px 0px 0px 10px;
+}
+.contact .title .sub-title h4{
+	font-size: 17px;
+    line-height: 27px;
+}
+.main-form .form-control{
+	padding: 10px 10px;
+    font-size: 10px;
+}
+.main-form .btn-primary{
+	padding: 10px 30px;
+	font-size: 10px;
+
+}
+.footer{
+	padding: 30px 0px 0px;
+}
+.footer .inner-footer{
+	padding: 30px 15px 0px;
+}
+
+.footer .inner-footer .img-fluid{
+    max-width: 45%;
+    height: auto;
+}
+.inner-text{
+  width: 100%;
+	font-size: 10px;
+  line-height: 20px;
+}
+.info{
+	width: 100%;
+  padding: 20px 0px 0px 0px;
+}
+.info p img {
+  width: 20px;
+  margin-right: 10px;
+}
+.info p{
+  text-align: left;
+	font-size: 12px;
+  line-height: 22px;
+}
+.coppyrights{
+  font-size: 14px;
+  text-align: center;
+}
+.social-icon ul{
+  text-align: center;
+  width: 100%;
+}
+/* css end */
+}
+@media (min-width: 320px) and (max-width: 480px){
+/* css start */
+.header .logo{
+  text-align: center;
+  width: 100%;
+  display: block;
+}
+.menu .top-menu p{
+  margin: 10px 0px 10px;
+  text-align: center;
+}
+.menu .navbar-nav .nav-item .nav-link{
+  margin: 10px 0px 0px 0px;
+}
+.banner{
+  padding: 35px 0px;
+}
+.banner .content{
+  padding: 30px 0px;
+}
+.banner .content .sub{
+  width: 100%;
+}
+.banner .content .sub h4{
+  font-size: 18px;
+  line-height: 28px;
+}
+.content h1{
+  font-size: 66px;
+  line-height: 76px;
+}
+.content h3{
+  font-size: 40px;
+  line-height: 50px;
+}
+.desktop{
+  display: none;
+}
+.mobile{
+  display: block;
+}
+.feature .card .card-body h5{
+  font-size: 18px;
+  line-height: 28px;
+}
+.feature .card .card-body h2{
+  font-size: 26px;
+  line-height: 36px;
+}
+.feature .card .card-body{
+  width: auto;
+}
+.services .title .sub-title{
+  width: 80%;
+}
+.services .title h1{
+  font-size: 26px;
+  line-height: 36px;
+}
+.services .title p{
+  font-size: 12px;
+  line-height: 22px;
+}
+.services .title{
+  padding: 0px 0px 20px;
+}
+.services .card{
+  padding: 20px;
+}
+.services .card .card-text{
+  font-size: 13px;
+  line-height: 23px;
+}
+.slider .owl-carousel .item h2{
+  font-size: 22px;
+	line-height: 32px;
+}
+.slider .owl-carousel .item p{
+  font-size: 13px;
+	line-height: 23px;
+}
+.slider .owl-carousel .item .img-fluid{
+  height: 200px;
+}
+.contact{
+	width: 100%;
+	padding: 15px 0px;
+}
+.contact .title{
+	padding: 0px 0px 10px;
+}
+.contact .title h1{
+  font-size: 28px;
+	line-height: 38px;
+  padding: 0px 0px 0px 10px;
+}
+.main-form .form-control{
+	padding: 10px 10px;
+    font-size: 14px;
+}
+.main-form .btn-primary{
+	padding: 10px 30px;
+	font-size: 14px;
+}
+.footer{
+	width: 100%;
+	padding: 20px 0px 0px;
+}
+.inner-text{
+  width: 100%;
+	font-size: 12px;
+  line-height: 22px;
+}
+.info{
+	width: 100%;
+  padding: 20px 0px 0px 0px;
+}
+.info p img {
+  width: 20px;
+  margin-right: 10px;
+}
+.info p{
+  text-align: center;
+	font-size: 14px;
+  line-height: 24px;
+}
+.coppyrights{
+  font-size: 14px;
+  text-align: center;
+}
+.social-icon ul{
+  text-align: center;
+  width: 100%;
+}
+/* css end */
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+  /* css start */
+  .header .logo{
+    text-align: center;
+    width: 100%;
+    display: block;
+  }
+  .menu .top-menu p{
+    margin: 5px 0px 0px;
+    text-align: center;
+  }
+  .menu .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    padding: 35px 0px;
+  }
+  .banner .content{
+    padding: 30px 0px;
+  }
+  .banner .content .sub{
+    width: 59%;
+  }
+  .sub{
+    width: 100%;
+  }
+  .banner .content .sub h4{
+    font-size: 14px;
+      line-height: 24px;
+  }
+  .content h1{
+    font-size: 56px;
+    line-height: 66px;
+  }
+  .content h3{
+    font-size: 38px;
+    line-height: 48px;
+  }
+  .desktop{
+    display: none;
+  }
+  .feature{
+    width: 100%;
+    padding: 20px 0px;
+  }
+  .feature .card .card-body h5{
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .feature .card .card-body h2{
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .feature .card .card-body{
+    width: auto;
+  }
+  .services{
+    width: 100%;
+    padding: 10px 0px 30px;
+  }
+  .services .title .sub-title{
+    width: 60%;
+  }
+  .services .title h1{
+    font-size: 36px;
+    line-height: 38px;
+  }
+  .services .title p{
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .services .title{
+    padding: 0px 0px 20px;
+  }
+  .services .card{
+    padding: 20px;
+  }
+  .services .card .card-text{
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .slider{
+    width: 100%;
+    padding: 10px 0px 40px;
+  }
+  .slider .owl-carousel .item h2{
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .slider .owl-carousel .item p{
+    font-size: 13px;
+    line-height: 23px;
+  }
+  .slider .owl-carousel .item .img-fluid{
+    height: 200px;
+  }
+  .contact{
+    width: 100%;
+    padding: 15px 0px;
+  }
+  .contact .title{
+    padding: 0px 0px 10px;
+  }
+  .contact .title h1{
+    font-size: 28px;
+    line-height: 38px;
+    padding: 0px 0px 0px 10px;
+  }
+  .footer{
+    width: 100%;
+    padding: 20px 0px 0px;
+  }
+  .inner-text{
+    width: 100%;
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .info{
+    width: 100%;
+    padding: 20px 0px 0px 0px;
+  }
+  .info p{
+    text-align: center;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .info p img{
+    width: 20px;
+    margin-right: 10px;
+  }
+  .coppyrights{
+    font-size: 14px;
+    text-align: center;
+  }
+  .social-icon ul{
+    text-align: center;
+    width: 100%;
+  }
+  /* css end */
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+  /* css start */
+  .top-menu p{
+    margin: -40px 10px 0px 0px;
+  }
+  .menu .navbar-nav .nav-item .nav-link{
+    margin: 10px 0px 0px 0px;
+  }
+  .banner{
+    padding: 75px 0px 0px 0px;
+  }
+  .banner .content .sub{
+    width: 48%;
+  }
+  .banner .content .sub h4{
+    font-size: 16px;
+      line-height: 26px;
+  }
+  .content h1{
+    font-size: 80px;
+    line-height: 90px;
+  }
+  .content h3{
+    font-size: 45px;
+      line-height: 55px;
+  }
+  .services{
+    padding: 10px 0px 60px;
+  }
+  .services .title .sub-title{
+    width: 50%;
+    padding: 12px;
+  }
+  .slider{
+    padding: 0px 0px 0px 60px;
+  }
+  .slider .owl-carousel .item h5{
+    font-size: 16px;
+     line-height: 26px;
+  }
+  .slider .owl-carousel .item h2{
+    font-size: 20px;
+     line-height: 30px;
+  }
+  .slider .owl-carousel .item p{
+    width: 100%;
+     font-size: 14px;
+     line-height: 24px;
+  }
+  .slider .owl-carousel .item .img-fluid{
+    height: 320px;
+  }
+  .contact{
+    padding: 60px 0px;
+  }
+  .main-form{
+    width: 95%;
+    padding: 30px;
+  }
+  .main-form .form-control{
+    padding: 10px 10px;
+      font-size: 16px;
+  }
+  .main-form .btn-primary{
+    padding: 10px 30px;
+    font-size: 16px;
+  }
+  .footer{
+    padding: 50px 0px;
+  }
+  .footer .inner-footer{
+    padding: 50px 20px 0px;
+  }
+  .inner-text{
+    font-size: 14px;
+  }
+  .info{
+    padding: 60px 0px;
+  }
+  .info p{
+    font-size: 14px;
+  }
+  .info p img {
+    margin-right: 10px;
+    width: 20px;
+}
+.coppyrights{
+  padding: 0px 0px 30px;
+}
+/* css end */
+}
